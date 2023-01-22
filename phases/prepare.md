@@ -57,9 +57,9 @@ It's time to cast your eyes to the wild jungle of jobs out there.
 Here the main tip is to find out which spaces and what type of companies has look up skills in job ads and also to see where you can find jobs the easiest. 
 Also, here's the place to figure out what jobs pay and do they even have remote/hybrid jobs advertised?
 
-You can start the easy way searching on [job boards](./channels/job-boards.md).
+You can start the easy way searching on [job boards](/channels/job-boards.md).
 
-Tips and resources helping you research companies within spaces or industries of your chosing is discussed in detail in the [direct approach](./channels/direct-approach.md). 
+Tips and resources helping you research companies within spaces or industries of your chosing is discussed in detail in the [direct approach](/channels/direct-approach.md). 
 
 So, let's see what resources you have to cover the last important step in the research step. 
 

@@ -22,9 +22,9 @@ Think about the jobs and experiences that you have had in the past and consider 
 
 _General tools and tips to find out about your Personal values_
 
-* https://personalvalu.es/ - [FREE] tool
-* https://positivepsychology.com/values-questionnaire/ - a downloadable questionnaire if that's your thing, still [FREE]
-* https://www.valuescentre.com/tools-assessments/pva/ - used to be free now USD 19.95, and I got nothing to gain if you buy it.
+* [Personalvalu.es](https://personalvalu.es/) - [FREE] tool
+* [Values Questionnaire from PositivePsychology.com](https://positivepsychology.com/values-questionnaire/) - a downloadable questionnaire if that's your thing, still [FREE]
+* [Personal Values Assesment tool](https://www.valuescentre.com/tools-assessments/pva/) - used to be free now USD 19.95, and I got nothing to gain if you buy it.
 
 _Specific tools and tips for assessing your Career values_
 
@@ -46,7 +46,7 @@ Also, most will have upgrade option. If you find out any would get paygated, put
 * [O*NET Interest Profiler](https://www.mynextmove.org/explore/ip)
 * [Practice Aptitude Test from WikiJob](https://www.wikijob.co.uk/aptitude-tests-home)--36 of them.
 * [Princeton Review Career Quiz](https://www.princetonreview.com/quiz/career-quiz)
-* https://www.whatcareerisrightforme.com/ 
+* [What career is right for me](https://www.whatcareerisrightforme.com/) 
 * [ARCHIVED] [Work Values Matcher](https://web.archive.org/web/20210417015939/https://www.careeronestop.org/Toolkit/Careers/work-values-matcher.aspx)--No longer live, but you can check it out the Archive version which seem to work, i.e. click through
 
 Now, once you're done with figuring yourself out.

@@ -128,6 +128,7 @@ Yep, they help to not stand out with poor English.
 
 Well, the judgement is still not in if it would be a no-no. So, let's have a few here that can do the job alright. Just make sure you add on your own way to say things else there may be too much friction when you hit the interviews stages.
 
+* ✨[chatGPT](https://chat.openai.com/chat)--probably needs not a lot of intro as you must have heard about it. Just to mention though it can help with interview preparation.
 * ✨[Quillbot](https://try.quillbot.com/p97a3jka1zab)--AFFILIATE link if you sign up for a paying tier, which is optional. Helps with finding differnt styles for your copy, but also to see if you use wording that you'd find elsewhere on the web which feels like a template too much. 
 * 
 

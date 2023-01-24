@@ -8,7 +8,7 @@ Here are the tools and tips to help you:
 
 ## What makes up the preparation
 
-Note: I put in a star (✨) for every tool that I have used and prefer for any reason.
+Note: I put in some twinkles (✨) for every tool that I have used and prefer for any reason.
 
 ### 1. Identify your career values
 
@@ -88,14 +88,13 @@ Best resources are:
 * [Numbeo](https://www.numbeo.com)--has a job board for Remote and job with relocation offered beside being the best crowdsourced cost-of-living database.
 * [Deel's Employment Cost Calculator](https://www.deel.com/employee-cost-calculator)--comes in handy when you have the option to move to another country and make use of the arbitrage on the total cost to the employer. 
 * [Tradingeconomics.com's List](https://tradingeconomics.com/country-list/personal-income-tax-rate)--quite up-to-date, but if you are married and/or even have a family, it may get more complicated. In that case you'll have to google for the country's latest tax calculator, eventually in the countries official language. 
-* [relocate.me](https://relocate.me)--is a great resource for techies looking to relocate, mostly within or into the European Union 🇪🇺. They also run a [job board](job-boards).  
 
 #### _Relocation guides_
 
 THere are too many to mention, but it's always sane to check user reports and reviews, thus best resource here is:
 
 * [Nomadlist](https://www.nomadlist.com)--for and by digital nomads. Also, has a job board/freelance marketplace RemoteOK
-* 
+* [relocate.me](https://relocate.me)--is a great resource for techies looking to relocate, mostly within or into the European Union 🇪🇺. They also run a [job board](job-boards).  
 
 ### 3. Get your resume in order
 
@@ -108,22 +107,16 @@ c) if you don't have the skills or experience, go learning and do projects that 
 
 If anything you may want to use a resume builder, especially if you have nothing or you want to totally redo your resume.
 
-#### _Resume builders_
+#### _Resume Builders and Graders_
 
 I'd leave alone the resume templates and concentrate on builders if you've not a polished CV already.
 
 * [Resumemonk](https://www.resumonk.com/)--on the premium you can build multiple versions.
 * ✨[StandardResume](https://standardresume.co/)--well loved in the tech space.
 * ✨[VisualCV](https://www.visualcv.com/)--has some interesting resources too like International CV guides. 
-* 
+* [Enhancv](https://enhancv.com/)
 
-#### _Resume graders_
-
-May give you useful pointers. 
-
-
-
-#### _Grammar checkers_
+#### _Grammar Checkers_
 
 Yep, they help to not stand out with poor English. 
 
@@ -135,7 +128,8 @@ Yep, they help to not stand out with poor English.
 
 Well, the judgement is still not in if it would be a no-no. So, let's have a few here that can do the job alright. Just make sure you add on your own way to say things else there may be too much friction when you hit the interviews stages.
 
-* [Quillbot](https://quillbot.com/)--
+* ✨[Quillbot](https://try.quillbot.com/p97a3jka1zab)--AFFILIATE link if you sign up for a paying tier, which is optional. Helps with finding differnt styles for your copy, but also to see if you use wording that you'd find elsewhere on the web which feels like a template too much. 
+* 
 
 ### 4. Do have a Cover letter, just in case
 
@@ -147,6 +141,11 @@ If you go direct then you'll need to write something in your cold or semi-warm o
 
 Now, if you're not good with it you can always through some machine learning solution on the problem, and then edit change it to you're heart's content. See above. 
 
+### 5. What about interview and negotation preparations?
+
+We covered salary, already as it is quite essential. 
+You'll find the interview preparation helpers and resources in the next phase [hunt](hunt).
+While the negotation and closing tips and resources will be listed in the [close](close) phase.
 
 ## If you believe preparation was hard
 

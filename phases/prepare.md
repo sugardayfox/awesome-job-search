@@ -63,16 +63,39 @@ Tips and resources helping you research companies within spaces or industries of
 
 So, let's see what resources you have to cover the last important step in the research step. 
 
-_Salary research_
+### 3. Salary research
+
+Should stand on its own.
 
 * ✨[Averagesalarysurvey.com](https://www.averagesalarysurvey.com/)--quite useful if you live or move to Europe.
+* [Comprehensive.io](https://www.comprehensive.io/)--a new player in the tech salary benchmarking space. 
 * [Glassdoor](https://www.glassdoor.com)--tries to help with salaries too, depends on the geography you look for a job in though.
 * [InDeed](https://www.indeed.com)--doing their best to deliver salary data for companies and job titles.
 * ✨[Payscale.com](https://www.payscale.com/)--multiple countries.
+* ✨[RemoteOK.io - Remote Work Statistics]([https://remoteok.com/remote-work-statistics)--if you'd be looking remotely. N.B. they also run a [job board](job-boards) and remote worker's marketplace.
 * [Salary.com](https://www.salary.com/research)--covers multiple countries.
 * [Salaryexpert.com](https://www.salaryexpert.com/)--by ERI includes relocation and cost of living data too. Geared towards 🇺🇸 US folks.
 * [SalarySearch](https://www.salarysearch.co.uk/)--by Croner 🇬🇧 UK only.
 * ✨[Levels.fyi](https://www.levels.fyi/)--especially useful for folks in Tech.
+
+If you move internationally there are a few handy resources to help with figuring out:
+
+#### _Cost of Living, Employment cost and Personal Tax_
+
+You have to check all three together to have a leg to your global plans.
+Best resources are:
+
+* [Numbeo](https://www.numbeo.com)--has a job board for Remote and job with relocation offered beside being the best crowdsourced cost-of-living database.
+* [Deel's Employment Cost Calculator](https://www.deel.com/employee-cost-calculator)--comes in handy when you have the option to move to another country and make use of the arbitrage on the total cost to the employer. 
+* [Tradingeconomics.com's List](https://tradingeconomics.com/country-list/personal-income-tax-rate)--quite up-to-date, but if you are married and/or even have a family, it may get more complicated. In that case you'll have to google for the country's latest tax calculator, eventually in the countries official language. 
+* [relocate.me](https://relocate.me)--is a great resource for techies looking to relocate, mostly within or into the European Union 🇪🇺. They also run a [job board](job-boards).  
+
+#### _Relocation guides_
+
+THere are too many to mention, but it's always sane to check user reports and reviews, thus best resource here is:
+
+* [Nomadlist](https://www.nomadlist.com)--for and by digital nomads. Also, has a job board/freelance marketplace RemoteOK
+* 
 
 ### 3. Get your resume in order
 
@@ -85,7 +108,7 @@ c) if you don't have the skills or experience, go learning and do projects that 
 
 If anything you may want to use a resume builder, especially if you have nothing or you want to totally redo your resume.
 
-_Resume builders_
+#### _Resume builders_
 
 I'd leave alone the resume templates and concentrate on builders if you've not a polished CV already.
 
@@ -94,13 +117,13 @@ I'd leave alone the resume templates and concentrate on builders if you've not a
 * ✨[VisualCV](https://www.visualcv.com/)--has some interesting resources too like International CV guides. 
 * 
 
-_Resume graders_
+#### _Resume graders_
 
 May give you useful pointers. 
 
 
 
-_Grammar checkers_
+#### _Grammar checkers_
 
 Yep, they help to not stand out with poor English. 
 
@@ -108,7 +131,7 @@ Yep, they help to not stand out with poor English.
 * ✨[HemingwayApp](http://www.hemingwayapp.com/)--quite good at helping you sound more simple and avoid sentences with more than 24 words.
 * ✨[ProWritingAid]()--is the one I use for anything complex or important enough, including reviewing my cv. 
 
-_AI Writers_
+#### _AI Writers_
 
 Well, the judgement is still not in if it would be a no-no. So, let's have a few here that can do the job alright. Just make sure you add on your own way to say things else there may be too much friction when you hit the interviews stages.
 
@@ -121,3 +144,10 @@ Some will insist you absolute have to include one to stand out.
 My take is that if they insist in a job ad and you cannot approach the hiring manager straight, you need one that is easy to personalize/tailor to the job requirements and company. 
 
 If you go direct then you'll need to write something in your cold or semi-warm outreach email anyway, so better be ready with something. 
+
+Now, if you're not good with it you can always through some machine learning solution on the problem, and then edit change it to you're heart's content. See above. 
+
+
+## If you believe preparation was hard
+
+Pop over to check out the vast expanse of the middle, grinding part we call [the hunt](hunt).

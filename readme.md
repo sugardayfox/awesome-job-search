@@ -53,4 +53,4 @@ But generally:
 
 I have first found out about Awesome lists from [Ripenaar's Free For Dev list](https://github.com/ripienaar/free-for-dev). 
 All other credit will be added here or simply as citation in the specific files. 
-  
+Less of a credit and more of a how this whole thing started for me - a [LinkedIn article of mine about the job search framework](https://www.linkedin.com/pulse/introducing-job-search-matrix-dez-papp/) I devised.

@@ -8,7 +8,8 @@ So, why did I put together this.
 
 0. Back in 2019 I spent a couple months doing customer discovery for a job search app project. And I've yet to find a great way to open source the findings and find contributors to bring the resources to the masses for maximum impact. Here are two LinkedIn posts as the pinnacle of what I shared. 
 1. There's no list to help engineers, or regular folks who venture here, get some help with job search here on Github. While there are tons of great, ahem, [Awesome lists](https://github.com/sindresorhus/awesome). 
-2. Why here? GitHub is one of the easiest places to collaborate. 
+2. 
+3. Why here? GitHub is one of the easiest places to collaborate for me. 
 
 > Aside: if you learn the basics of Git and how to get around on Github, you already scored, so here are two 101s on the two:
 > 1. [Hubspot's Tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
@@ -30,7 +31,7 @@ You can...
 
 <a href="https://www.buymeacoffee.com/dezpapp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-In the tooling section I may include AFFILIATE links. That will be clearly marked, and if you purchase within a time frame, typically between 45 and 90 days, I may get a bit of commission.
+In the tooling section I may include 💶 AFFILIATE 💶 links. That will be clearly marked, and if you purchase within a time frame, typically between 45 and 90 days, I may get a bit of commission.
 
 If you have time and want to put in some effort to help others coming behind you. 
 
@@ -52,3 +53,4 @@ But generally:
 
 I have first found out about Awesome lists from [Ripenaar's Free For Dev list](https://github.com/ripienaar/free-for-dev). 
 All other credit will be added here or simply as citation in the specific files. 
+  

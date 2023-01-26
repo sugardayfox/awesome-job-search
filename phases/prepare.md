@@ -36,6 +36,7 @@ Also, most will have upgrade option. If you find out any would get paygated, put
 * [Career Values Quiz](https://www.careerguidancecharts.com/career-values-quiz.html)
 * [Career Test](https://www.123test.com/career-test/)
 * [Career Planner or Job Matcher](https://www.prospects.ac.uk/planner)--REGISTER and get a free match of your skilss against possible career paths.
+* [Choizy](https://choizy.org)--UK-based 🇬🇧 not-for-profit, mobile app: iOS & Android – Career guidance with Artificial intelligence.
 * [Holland Occupational Themes a.k.a. RIASEC a.k.a. Holland Code](https://www.truity.com/test/holland-code-career-test)
 * [Life Values Assessment Test (LVAT)](https://www.whatsnext.com/life-values-self-assessment-test/)
 * [Keirsey Temperament test](https://www.keirsey.com/sorter/register.aspx)--[FREE] but need to give up your email address.
@@ -61,7 +62,7 @@ You can start the easy way searching on [job boards](/channels/job-boards.md).
 
 Tips and resources helping you research companies within spaces or industries of your chosing is discussed in detail in the [direct approach](/channels/direct-approach.md). 
 
-So, let's see what resources you have to cover the last important step in the research step. 
+So, let's see what resources you have to cover the next important step in the research step. 
 
 ### 3. Salary research
 
@@ -96,7 +97,7 @@ THere are too many to mention, but it's always sane to check user reports and re
 * [Nomadlist](https://www.nomadlist.com)--for and by digital nomads. Also, has a job board/freelance marketplace RemoteOK
 * [relocate.me](https://relocate.me)--is a great resource for techies looking to relocate, mostly within or into the European Union 🇪🇺. They also run a [job board](job-boards).  
 
-### 3. Get your resume in order
+### 4. Get your resume in order
 
 Now this is one of the hardest to do as they say. 
 My 2 cents is that you:
@@ -111,6 +112,7 @@ If anything you may want to use a resume builder, especially if you have nothing
 
 I'd leave alone the resume templates and concentrate on builders if you've not a polished CV already.
 
+* [CakeResume](https://www.cakeresume.com/)--Easily create an impressive online resume in minutes with this Taiwan-made, tech-focused platform. Users rave about our drag-and-drop editing feature, clean interface, and the ability to export to PDF. Also, doubles as a [job board](job-boards).
 * [Enhancv](https://enhancv.com/)
 * [Resumemonk](https://www.resumonk.com/)--on the premium you can build multiple versions.
 * [Skillroads' AI Resume Builder](https://skillroads.com/free-online-resume-builder)
@@ -136,7 +138,7 @@ Well, the judgement is still not in if it would be a no-no. So, let's have a few
 
 Will cover the best practices and tactices within [personal branding](personal-branding).
 
-### 4. Do have a Cover letter, just in case
+### 5. Do have a Cover letter, just in case
 
 Yet another controversial topic. 
 Some will insist you absolute have to include one to stand out. 
@@ -146,7 +148,7 @@ If you go direct then you'll need to write something in your cold or semi-warm o
 
 Now, if you're not good with it you can always through some machine learning solution on the problem, and then edit change it to you're heart's content. See above. 
 
-### 5. What about interview and negotation preparations?
+### 6. What about interview and negotation preparations?
 
 We covered salary, already as it is quite essential. 
 You'll find the interview preparation helpers and resources in the next phase [hunt](hunt).

@@ -113,7 +113,8 @@ If anything you may want to use a resume builder, especially if you have nothing
 I'd leave alone the resume templates and concentrate on builders if you've not a polished CV already.
 
 * [CakeResume](https://www.cakeresume.com/)--Easily create an impressive online resume in minutes with this Taiwan-made, tech-focused platform. Users rave about our drag-and-drop editing feature, clean interface, and the ability to export to PDF. Also, doubles as a [job board](job-boards).
-* [Enhancv](https://enhancv.com/)
+* [Enhancv](https://enhancv.com/)--as they put it: "the best free-to-use resume creator online today! create a resume in just minutes that looks modern, creative and unique."
+* [Novoresume](novoresume.com)--in their words: "make a perfect resume in 2023 and get your dream job using the free resume builder. select a template. personalize it. get more interviews."
 * [Resumemonk](https://www.resumonk.com/)--on the premium you can build multiple versions.
 * [Skillroads' AI Resume Builder](https://skillroads.com/free-online-resume-builder)
 * ✨[StandardResume](https://standardresume.co/)--well loved in the tech space.

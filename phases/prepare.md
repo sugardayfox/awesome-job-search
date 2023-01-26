@@ -155,3 +155,9 @@ While the negotation and closing tips and resources will be listed in the [close
 ## If you believe preparation was hard
 
 Pop over to check out the vast expanse of the middle, grinding part we call [the hunt](hunt).
+
+---
+
+## Found anything you'd change or add here? 
+
+See how you can [contribute](https://github.com/sugardayfox/awesome-job-search#how-to-contribute).

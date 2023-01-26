@@ -111,10 +111,11 @@ If anything you may want to use a resume builder, especially if you have nothing
 
 I'd leave alone the resume templates and concentrate on builders if you've not a polished CV already.
 
+* [Enhancv](https://enhancv.com/)
 * [Resumemonk](https://www.resumonk.com/)--on the premium you can build multiple versions.
+* [Skillroads' AI Resume Builder](https://skillroads.com/free-online-resume-builder)
 * ✨[StandardResume](https://standardresume.co/)--well loved in the tech space.
 * ✨[VisualCV](https://www.visualcv.com/)--has some interesting resources too like International CV guides. 
-* [Enhancv](https://enhancv.com/)
 
 #### _Grammar Checkers_
 
@@ -130,7 +131,10 @@ Well, the judgement is still not in if it would be a no-no. So, let's have a few
 
 * ✨[chatGPT](https://chat.openai.com/chat)--probably needs not a lot of intro as you must have heard about it. Just to mention though it can help with interview preparation.
 * ✨[Quillbot](https://try.quillbot.com/p97a3jka1zab)--AFFILIATE link if you sign up for a paying tier, which is optional. Helps with finding differnt styles for your copy, but also to see if you use wording that you'd find elsewhere on the web which feels like a template too much. 
-* 
+ 
+#### Setting up your profiles
+
+Will cover the best practices and tactices within [personal branding](personal-branding).
 
 ### 4. Do have a Cover letter, just in case
 

@@ -163,3 +163,13 @@ Pop over to check out the vast expanse of the middle, grinding part we call [the
 ## Found anything you'd change or add here? 
 
 See how you can [contribute](https://github.com/sugardayfox/awesome-job-search#how-to-contribute).
+
+---
+
+## How to suppport this project
+
+You can...
+
+<a href="https://www.buymeacoffee.com/dezpapp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+or if you click a link clearly marked as 💶 AFFILIATE 💶 and you purchase within a time frame, typically between 30 and 90 days, I may get a bit of commission.

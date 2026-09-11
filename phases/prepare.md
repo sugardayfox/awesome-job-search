@@ -118,6 +118,7 @@ I'd leave alone the resume templates and concentrate on builders if you've not a
 * [Resumemonk](https://www.resumonk.com/)--on the premium you can build multiple versions.
 * [Skillroads' AI Resume Builder](https://skillroads.com/free-online-resume-builder)
 * ✨[StandardResume](https://standardresume.co/)--well loved in the tech space.
+* [ResumeAI](https://withresumeai.com/)--[FREE] forever ATS checker (3 checks/day with no account, 10/day with a free account) plus an open State of ATS 2026 dataset (738 large employers, 704 portal-verified; Workday share 37.9%, not the retracted 75.4%). Embeddable widget at https://withresumeai.com/embed.
 * ✨[VisualCV](https://www.visualcv.com/)--has some interesting resources too like International CV guides. 
 
 #### _Grammar Checkers_
